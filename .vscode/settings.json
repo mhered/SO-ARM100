@@ -1,0 +1,5 @@
+{
+    "urdf-visualizer.packages": {
+    "SO_5DOF_ARM100_8j_URDF.SLDASM": "${workspaceFolder}/URDF/SO_5DOF_ARM100_8j_URDF.SLDASM"
+}
+}
